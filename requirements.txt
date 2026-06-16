@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+llama-index
+llama-index-embeddings-huggingface
+sentence-transformers
+transformers
+torch
+chromadb
+pymupdf
+python-dotenv
+pydantic
+pytesseract
+Pillow
